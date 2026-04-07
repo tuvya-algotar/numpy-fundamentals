@@ -110,7 +110,7 @@ Mastering NumPy = First step toward ML Engineering.
 ## 📬 Connect
 
 - **LinkedIn:** [Tuvya Algotar](https://www.linkedin.com/in/tuvya-algotar-8b4b07374/)
-- **GitHub:** [@tuvya-algotar](https://github.com/Tuvya7)
+- **GitHub:** [@tuvya-algotar](https://github.com/tuvya-algotar)
 - **Email:** tuvyaalgotar@gmail.com
 
 ⭐ **Star this repo if you found it helpful!**
