@@ -96,6 +96,7 @@ outputs/
 ## 📬 Connect
 
 LinkedIn: https://www.linkedin.com/in/tuvya-algotar-8b4b07374/
+
 GitHub: https://github.com/tuvya-algotar
 
 ---
